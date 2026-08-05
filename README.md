@@ -30,7 +30,7 @@
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Postman.png' title = 'Postman' alt = 'Postman' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/4.png' title = 'Devtools' alt = 'Devtools' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/postgresql-original.svg' title = 'PostgreSQL' alt = 'PostgreSQL' width="60" height="60"/> &nbsp;
-     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/postgresql-original.svg' title = 'Dbeaver' alt = 'Dbeaver' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/8fc86a6770a4c63cfa460e37b332ee03c563f28f/gif%20and%20icons/DBeaver_logo.svg.webp' title = 'Dbeaver' alt = 'Dbeaver' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/47ff9a8675c4c3a38194b4daa9b3f7ffb714cd94/gif%20and%20icons/Apache_Kafka_logo.svg.webp' title = 'Kafka' alt = 'Kafka' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/689b1ac4b37e32f49b5eec77f57e92ca670a2f1d/gif%20and%20icons/default.png' title = 'Swagger' alt = 'Swagger' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/689b1ac4b37e32f49b5eec77f57e92ca670a2f1d/gif%20and%20icons/terminal-ldap.png' title = 'LDAP' alt = 'LDAP' width="60" height="60"/> &nbsp;
