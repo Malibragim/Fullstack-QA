@@ -41,11 +41,10 @@
      <img src="https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/python-original.svg" title = 'Python' alt = 'Python' width = '60' height="60"> &nbsp;
      <img src = "https://raw.githubusercontent.com/Malibragim/Malibragim/main/gif%20and%20icons/Git-Icon-1788C.png" title="Git" alt="Git" width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/selenium-ide128.png' title = 'Selenium IDE' alt = 'Selenium IDE' width="60" height="60"/> &nbsp;
-height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Fullstack-QA/blob/689b1ac4b37e32f49b5eec77f57e92ca670a2f1d/gif%20and%20icons/Pytest_logo.svg.' title = 'Pytest' alt = 'Pytest' width="60" height="60"/> &nbsp;   
 </div>
-## Мои контакты:
 
+## Мои контакты:
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor)](malikibragimov890@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](http://t.me/Malibragim)
 ![+7 928 136 85 87](https://img.shields.io/badge/-+7_928_136_85_87-090909?style=for-the-badge&logo=&logoColor)
