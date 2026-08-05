@@ -1,4 +1,3 @@
-from selene import browser
 from selenium.webdriver.common.by import By
 import time
 from selenium import webdriver
