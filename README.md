@@ -27,10 +27,10 @@
 
 ### :hammer_and_wrench: Стек инструментов, который использовал на коммерческом проекте:
 <div>
-     
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/Postman.png' title = 'Postman' alt = 'Postman' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/4.png' title = 'Devtools' alt = 'Devtools' width="60" height="60"/> &nbsp;
      <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/postgresql-original.svg' title = 'PostgreSQL' alt = 'PostgreSQL' width="60" height="60"/> &nbsp;
+     <img src = 'https://github.com/Malibragim/Malibragim/blob/main/gif%20and%20icons/postgresql-original.svg' title = 'Dbeaver' alt = 'Dbeaver' width="60" height="60"/> &nbsp;
 </div>
 
 ### :hammer_and_wrench: Стек инструментов, который освоил самостоятельно и использую в pet-проектах:
